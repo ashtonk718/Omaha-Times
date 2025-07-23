@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Omaha Times</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="container">
+    <header>
+      <h1>OMAHA TIMES</h1>
+ 
+      
+<nav class="main-nav">
+  <button class="nav-toggle" aria-label="Toggle menu">
+    ☰
+  </button>
+  <ul>
+    <li><a href="/index.html">News</a></li>
+    <li><a href="/politics.html">Politics</a></li>
+    <li><a href="/business.html">Business</a></li>
+    <li><a href="/about-us.html">About Us</a></li>
+    <li><a href="/contact-us.html">Contact Us</a></li>
+    <li><a href="/subscribe.html">Subscription</a></li>
+  </ul>
+</nav>
+
+<p class="date" id="date"></p>
+    </header>
+
+<main>
+  <h2>Subscribe to the Omaha Times</h2>
+  <p>
+    Stay informed with the latest news, politics, business updates, and more by subscribing to the Omaha Times.  
+    Choose the plan that works best for you and enjoy full access to all our content.
+  </p>
+
+  <form id="subscription-form" action="#" method="post" novalidate>
+    <label for="full-name">Full Name:</label>
+    <input type="text" id="full-name" name="full-name" required placeholder="Your full name" />
+
+    <label for="email">Email Address:</label>
+    <input type="email" id="email" name="email" required placeholder="your.email@example.com" />
+
+    <label for="plan">Subscription Plan:</label>
+    <select id="plan" name="plan" required>
+      <option value="" disabled selected>Select a plan</option>
+      <option value="monthly">Monthly - $5/month</option>
+      <option value="annual">Annual - $50/year (save $10)</option>
+      <option value="premium">Premium - $100/year (includes exclusive content)</option>
+    </select>
+
+    <button type="submit">Subscribe Now</button>
+  </form>
+</main>
+
+
+
+
+    <footer>
+      <p>&copy; <span id="year"></span> Omaha Times. All rights reserved.</p>
+    </footer>
+
+    <script src="script.js"></script>
+  </div>
+</body>
+</html>
