@@ -285,3 +285,28 @@ form button:focus {
   background: #444;
   outline: none;
 }
+
+
+
+    .sidebar {
+      grid-column: 3 / 4;
+    }
+
+    .ad {
+      margin: 1rem 0;
+      border: 1px solid #ccc;
+      padding: 0.5rem;
+      background-color: #f9f9f9;
+    }
+
+    .ad img {
+      max-width: 50%;
+      display: block;
+      margin: 0 auto;
+    }
+
+        article img.logo {
+      display: block;
+      max-width: 150px;
+      margin: 0 auto 1rem;
+    }
