@@ -310,3 +310,15 @@ form button:focus {
       max-width: 150px;
       margin: 0 auto 1rem;
     }
+
+
+
+            /* Responsive Design */
+    @media (max-width: 768px) {
+      .container {
+        grid-template-columns: 1fr;
+      }
+      header, footer {
+        grid-column: span 1;
+      }
+    }
