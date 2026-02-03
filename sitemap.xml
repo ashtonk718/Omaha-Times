@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
   <url>
     <loc>https://omaha-times.com/</loc>
   </url>
@@ -63,4 +64,69 @@
   <url>
     <loc>https://omaha-times.com/subscribe.html</loc>
   </url>
+
+  <!-- Omaha Economy Articles -->
+  <url>
+    <loc>https://omaha-times.com/omaha-economy-01-logistics.html</loc>
+  </url>
+  <url>
+    <loc>https://omaha-times.com/omaha-economy-02-construction.html</loc>
+  </url>
+  <url>
+    <loc>https://omaha-times.com/omaha-economy-03-tech-startups.html</loc>
+  </url>
+  <url>
+    <loc>https://omaha-times.com/omaha-economy-04-finance-insurance.html</loc>
+  </url>
+  <url>
+    <loc>https://omaha-times.com/omaha-economy-05-small-business.html</loc>
+  </url>
+  <url>
+    <loc>https://omaha-times.com/omaha-economy-06-workforce.html</loc>
+  </url>
+  <url>
+    <loc>https://omaha-times.com/omaha-economy-07-tourism-events.html</loc>
+  </url>
+  <url>
+    <loc>https://omaha-times.com/omaha-economy-08-manufacturing.html</loc>
+  </url>
+  <url>
+    <loc>https://omaha-times.com/omaha-economy-09-housing-neighborhoods.html</loc>
+  </url>
+  <url>
+    <loc>https://omaha-times.com/omaha-economy-10-infrastructure.html</loc>
+  </url>
+
+  <!-- AI & Technology Articles -->
+  <url>
+    <loc>https://omaha-times.com/ai-tech-01-omaha-ai-growth.html</loc>
+  </url>
+  <url>
+    <loc>https://omaha-times.com/ai-tech-02-no-code-rise.html</loc>
+  </url>
+  <url>
+    <loc>https://omaha-times.com/ai-tech-03-div-idy-growth.html</loc>
+  </url>
+  <url>
+    <loc>https://omaha-times.com/ai-tech-04-ai-web-apps.html</loc>
+  </url>
+  <url>
+    <loc>https://omaha-times.com/ai-tech-05-div-idy-explainer.html</loc>
+  </url>
+  <url>
+    <loc>https://omaha-times.com/ai-tech-06-ai-databases.html</loc>
+  </url>
+  <url>
+    <loc>https://omaha-times.com/ai-tech-07-prompt-based-development.html</loc>
+  </url>
+  <url>
+    <loc>https://omaha-times.com/ai-tech-08-ai-chatbots.html</loc>
+  </url>
+  <url>
+    <loc>https://omaha-times.com/ai-tech-09-midwest-ai-startups.html</loc>
+  </url>
+  <url>
+    <loc>https://omaha-times.com/ai-tech-10-future-web-development.html</loc>
+  </url>
+
 </urlset>
